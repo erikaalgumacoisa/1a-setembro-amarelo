@@ -1,9 +1,9 @@
 #banner {
-	width:100%;
+	width:50%;
 }
 
 .principal{
-	background: #CCCCCC;
+	background: #ebc51e;
 	padding: 30px;
 }
 
@@ -32,7 +32,7 @@ em strong {
 }
 
 .beneficios {
-	background: #FFFFFF;
+	background: #4df709;
 	padding: 20px;
 }
 
